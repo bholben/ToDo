@@ -11,11 +11,12 @@ A ToDo list app built with jQuery using TDD/BDD.
 ### Technologies
   * HTML
   * CSS
-  * Sass (SCSS)
+  * Sass
   * JavaScript
   * jQuery
   * Mocha
   * Chai
+  * Divshot
 
 ### How to use it
 
